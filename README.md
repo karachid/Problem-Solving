@@ -1,0 +1,1 @@
+A repository dedicated to sharing the source code for problems I solve on platforms like LeetCode, Codeforces, and more.
